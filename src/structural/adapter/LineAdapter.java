@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package structural.adapter;
 
 public class LineAdapter implements Shape {
     private Line adapter;

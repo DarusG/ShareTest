@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package structural.adapter;
 
 public class RectangleAdapter implements Shape {
     private Rectangle adapter;
