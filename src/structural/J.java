@@ -1,4 +1,4 @@
-package Structural;
+package structural;
 
 public class J {
 }
